@@ -27,7 +27,7 @@
         {/if}
         </table>
         {if $$node.children_count > 0}
-            <p>Use the <strong>All Children</strong> option if you are re-indexing a product after changing <strong>priorities on chapters, figures or downloads</strong></p>
+            <p>Use the <strong>All Children</strong> option if you are re-indexing an object after changing <strong>priorities on child objects</strong></p>
         {/if}
         <div class="controlbar">
             <div class="block">
