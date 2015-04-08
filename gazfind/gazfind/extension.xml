@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>Gaz Find</name>
+        <version>1.0</version>
+        <license>MIT</license>
+    </metadata>
+
+    <dependencies>
+        <extends>
+            <extension name="ezfind" />
+        </extends>
+    </dependencies>
+</software>
