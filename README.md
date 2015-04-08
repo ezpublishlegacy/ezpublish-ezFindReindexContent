@@ -20,6 +20,8 @@ Copy the folder to your extensions directory
 
 If you use an override file then you may need to add ActiveExtensions[]=gazfind to your settings/override/site.ini under [ExtensionSettings]
 
+Regenerate Autoloads
+
 Clear your caches
 
 ## Contact
