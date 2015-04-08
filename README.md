@@ -4,7 +4,7 @@
 
 Extends the legacy ezfind extension to add a reindex content link to all objects
 
-This addresses an issue in sites which use Solr, but for performance reasons have asObjects set to false when doing fetches. asObjects = false gives you the data direct from Solr, which is fast, but with Solr being a volotile document data source there's always a risk of it being out of sync.
+This addresses an issue in sites which use Solr, but for performance reasons have asObjects set to false when doing fetches. asObjects = false gives you the data direct from Solr, which is fast, but with Solr being a volatile document data source there's always a risk of it being out of sync.
 
 Another issue addressed is this: ezFind does not reindex content when a priority is changed (by default). Manually re-saving each object can be tedious.
 
